@@ -1,0 +1,7 @@
+version: '2'
+services:
+  dynamodb-local:
+    image: peopleperhour/dynamodb
+    ports: 
+    - "8000:8000"
+    container_name: local-dynamodb

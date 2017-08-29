@@ -1,0 +1,23 @@
+{
+  "name": "dynamodb-practise",
+  "version": "1.0.0",
+  "description": "A practise for dynamo-db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupamroy/dynamodb-practise.git"
+  },
+  "author": "Rupam Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupamroy/dynamodb-practise/issues"
+  },
+  "homepage": "https://github.com/rupamroy/dynamodb-practise#readme",
+  "dependencies": {
+    "aws-sdk": "^2.103.0",
+    "tunnel": "0.0.5"
+  }
+}
